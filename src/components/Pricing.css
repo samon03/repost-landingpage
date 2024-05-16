@@ -1,0 +1,17 @@
+.font-basic {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.font-month {
+    font-size: 44px;
+    font-weight: bolder;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.text-up {
+   vertical-align: super;
+}
